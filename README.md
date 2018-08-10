@@ -33,3 +33,6 @@ If packages are defined in `package.json` using [ranges](https://docs.npmjs.com/
 `npm update` will update the packages with respect to the given ranges.  
 
     npm update [package]    # Update only a single package. Usefull when testing if updating a package breaks something.
+    
+## References
+[Pluralsight](https://app.pluralsight.com/library/courses/npm-playbook/table-of-contents)    
